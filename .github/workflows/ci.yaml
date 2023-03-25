@@ -32,3 +32,4 @@ jobs:
         with:
           push: true
           tags: linkmiguel/ci-go:latest
+
